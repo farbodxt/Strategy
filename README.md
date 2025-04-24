@@ -119,8 +119,7 @@ Als Video Content Specialist bij HUMAN stel ik een geavanceerde, cross-platforms
 
 ## 7. Visual Mock-up & Metadata-checklist
 
-- **Thumbnail Prompt**: "Create a 1280×720 YouTube thumbnail in the Rewind brand style: dark textured background with subtle world map pattern, Rewind logo in top-left, a stylized silhouette of the Cestmocro Instagram avatar on the right, a red magnifying glass graphic hovering over the silhouette, and bold Roboto Bold text reading ‘Who runs Cestmocro?’ centered in white with #1E90FF outline. Add a play-button icon overlay and cinematic spot lighting for dramatic effect."
-
+- **Thumbnail**: 
 - **Metadatavelden**:
   - SEO-titel
   - Primaire zoekterm
