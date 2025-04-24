@@ -119,7 +119,7 @@ Als Video Content Specialist bij HUMAN stel ik een geavanceerde, cross-platforms
 
 ## 7. Visual Mock-up & Metadata-checklist
 
-- **Thumbnail**:  ![Voorbeeld thumbnail](/assets/images/YT%20Thumbnail%20(Voorbeeld).jpeg)
+- **Thumbnail**:  (/assets/images/YT%20Thumbnail%20(Voorbeeld).jpeg)
 
 - **Metadatavelden**:
   - SEO-titel
