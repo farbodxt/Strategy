@@ -119,7 +119,8 @@ Als Video Content Specialist bij HUMAN stel ik een geavanceerde, cross-platforms
 
 ## 7. Visual Mock-up & Metadata-checklist
 
-- **Thumbnail**:  https://github.com/farbodxt/Strategy/blob/main/YT%20Thumbnail%20(Voorbeeld).jpeg?raw=true
+- **Thumbnail**:  ![Voorbeeld thumbnail](/assets/images/YT%20Thumbnail%20(Voorbeeld).jpeg)
+
 - **Metadatavelden**:
   - SEO-titel
   - Primaire zoekterm
