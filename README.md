@@ -119,7 +119,7 @@ Als Video Content Specialist bij HUMAN stel ik een geavanceerde, cross-platforms
 
 ## 7. Visual Mock-up & Metadata-checklist
 
-- **Thumbnail**:  (/assets/images/YT%20Thumbnail%20(Voorbeeld).jpeg)
+- **Thumbnail**: <img src="https://raw.githubusercontent.com/farbodxt/Strategy/main/YT%20Thumbnail%20(Voorbeeld).jpeg" alt="YT Thumbnail Example" style="width: 200px; height: auto;">
 
 - **Metadatavelden**:
   - SEO-titel
